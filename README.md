@@ -4,4 +4,4 @@
 
 
 ## Add Your Awesome Python + Nyno Project:
-- [Submit a Post to the Python + Nyno Subreddit](https://github.com/flowagi-eu/nyno](https://www.reddit.com/r/PythonAndNyno/)
+- [Submit a Post to the Python + Nyno Subreddit](https://www.reddit.com/r/PythonAndNyno/)
