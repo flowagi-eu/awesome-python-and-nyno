@@ -1,17 +1,17 @@
 ### For the Python Backend dev:
-- /examples-mistral-python/mistral-text.py (most common use case)
-- /examples-mistral-python/mistral-embeddings.py (for vector database)
-- /examples-mistral-python/mistral-threshold.py (simple threshold detection example)
+- /examples-cli/ai-mistral-text/command.py (most common use case)
+- /examples-cli//ai-mistral-embeddings/command.py (for vector database)
+- /examples-cli//ai-mistral-image-gen/command.py (image generation)
 
-
-### For the Python + low-code GUI builder:
-
+### For Python + GUI builder:
 ![Nyno examples connecting multiple AI nodes](https://github.com/flowagi-eu/nyno/raw/main/h/c0f8c2c19f52c63ba139a25e5fa5fbc80a36a865c1368534bac204c3fc3d683f/screenshot-from-2026-01-12-13-26-24.webp)
 
+#### GUI Builder + Engine
+- For Windows: [hHow to run Nyno on Windows using Docker Desktop](https://nyno.dev/how-to-run-nyno-on-windows-using-docker-desktop)
+- For Linux: [Nyno Core GUI AI Workflow Builder & Engine](https://github.com/flowagi-eu/nyno)
 
-### Official Nyno Python Drivers & Core
+#### Nyno Python Driver
 - [Nyno Python Driver (PyPi)](https://github.com/empowerd-cms/nyno-python-driver)
-- [Nyno Core GUI AI Workflow Builder & Engine](https://github.com/flowagi-eu/nyno)
 
 
 ## Add Your Awesome Mistral-Python-Nyno Example:
