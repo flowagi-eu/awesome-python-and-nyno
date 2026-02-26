@@ -1,6 +1,7 @@
 ### For the Python Backend dev:
 - /examples-mistral-python/mistral-text.py (most common use case)
 - /examples-mistral-python/mistral-embeddings.py (for vector database)
+- /examples-mistral-python/mistral-threshold.py (simple threshold detection example)
 
 
 ### For the Python + low-code GUI builder:
