@@ -1,7 +1,12 @@
-### Official Python + Nyno Drivers & Core
-- [Nyno Core GUI AI Workflow Builder & Engine](https://github.com/flowagi-eu/nyno)
+### For the backend dev:
+- If you're just here for the pure Python examples (text,embeddings,etc) for Mistral see /examples-mistral-python
+
+### For the low-code builder:
+
+### Official Nyno Python Drivers & Core
 - [Nyno Python Driver (PyPi)](https://github.com/empowerd-cms/nyno-python-driver)
+- [Nyno Core GUI AI Workflow Builder & Engine](https://github.com/flowagi-eu/nyno)
 
 
-## Add Your Awesome Python + Nyno Project:
-- [Submit a Post to the Python + Nyno Subreddit](https://www.reddit.com/r/PythonAndNyno/)
+## Add Your Awesome Nyno Example:
+- [Submit a Post to the Nyno Subreddit](https://nyno.dev)
