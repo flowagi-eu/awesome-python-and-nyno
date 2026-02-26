@@ -14,5 +14,5 @@ If you're here for Python examples for Mistral see
 - [Nyno Core GUI AI Workflow Builder & Engine](https://github.com/flowagi-eu/nyno)
 
 
-## Add Your Awesome Nyno Example:
+## Add Your Awesome Mistral-Python-Nyno Example:
 - [Submit a Post to the Nyno Subreddit](https://nyno.dev)
